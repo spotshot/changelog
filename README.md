@@ -9,7 +9,7 @@
 - Challenge Creation: fixed empty challenge preview, if no slides we're created
 - UI changes on Accept Challenge / Upload SpotShot
 - Challenges: Now it is possible to see the how many and who accepted a challenge
-- Fixes for iPhone XS
+- Fixes for iPhone XS Max
 - Optimized Load-Spinner for iPhone X
 - Fixes in Challenge-Creation (no empty challenge preview, if no slides are added)
 - No-Filter option for Challenges 
