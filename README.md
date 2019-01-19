@@ -1,5 +1,29 @@
 # SpotShot-Changelog
 
+### 0.1.1 (3) "First Month in Alpha"-Build
+*(0.1.1 (1) and (2) were internal test builds)*
+
+- Feature: Bio for profiles
+- Feature: Scroll to top on logo click, or click on current/active navigation tab
+- Feature: Comments of other users on own spotshots can be deleted
+- Fix: Feed-Cache updates it self, so the cache isn't outdated anymore
+- Fix: New loaded spotshots will be cached with the challenge
+- Fix: missspelling in profiles and feedback form fixed
+- Fix: Challenge Footer on expired challenges fixed
+- Fix: removed unnessesary whitespace for iPhone X and XS max 
+- Fix: show only notifications, which are actually possible to view in app
+- Fix: cropped refresher fixed 
+- Fix: Usernames overflow in spotshot thumbnails fixed
+- Optimization: removed some page transitions, to enable faster navigation in app
+- Optimization: visual feedback for loading profiles
+- Optimization: commentfield expanses with to multi-row content
+- Optimization: "answer comment" improved
+- Optimization: Footer navigation removed on challenge creation page.
+- Optimization: active page is now visible on footer navigation
+- Optimization: Completed <-> Accepted Challenges in profiles switched
+- Optimization: bigger Splashscreen-Logo
+- Optimization: Wording changes on Accept-Challenge: "do it later"
+
 ### 0.1.0 (2)
 
 - Alpha-Feedback-Form link on Feed Page
