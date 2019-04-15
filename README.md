@@ -1,5 +1,8 @@
 # SpotShot-Changelog
 
+### 0.1.1 (4) Bugfix-Build
+- Minor bugfixes
+
 ### 0.1.1 (3) "First Month in Alpha"-Build
 *(0.1.1 (1) and (2) were internal test builds)*
 
@@ -10,9 +13,9 @@
 - Fix: New loaded spotshots will be cached with the challenge
 - Fix: missspelling in profiles and feedback form fixed
 - Fix: Challenge Footer on expired challenges fixed
-- Fix: removed unnessesary whitespace for iPhone X and XS max 
+- Fix: removed unnessesary whitespace for iPhone X and XS max
 - Fix: show only notifications, which are actually possible to view in app
-- Fix: cropped refresher fixed 
+- Fix: cropped refresher fixed
 - Fix: Usernames overflow in spotshot thumbnails fixed
 - Optimization: removed some page transitions, to enable faster navigation in app
 - Optimization: visual feedback for loading profiles
@@ -36,7 +39,7 @@
 - Fixes for iPhone XS Max
 - Optimized Load-Spinner for iPhone X
 - Fixes in Challenge-Creation (no empty challenge preview, if no slides are added)
-- No-Filter option for Challenges 
+- No-Filter option for Challenges
 - New Splashscreen added
 - more UX optimization, as example: clickable usernames in challenge entries
 - Fixed invalid token for Password-Resets
