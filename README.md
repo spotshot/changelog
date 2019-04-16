@@ -1,6 +1,7 @@
 # SpotShot-Changelog
 
-### 0.1.1 (4) Bugfix-Build
+### 0.1.1 (5) Bugfix-Build
+*(0.1.1 (4) was an internal test build)*
 - Minor bugfixes
 
 ### 0.1.1 (3) "First Month in Alpha"-Build
